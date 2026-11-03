@@ -122,7 +122,7 @@ Este repositório é um MVP educacional. Antes de qualquer uso real, é necessá
 
 Desenvolvido como projeto de portfólio para demonstrar conhecimentos iniciais em Gestão de Tecnologia da Informação e desenvolvimento de aplicações web.
 
-**Autora:** Brunna Santos de Souza
+**Autor:** Maxsuel Rodrigues
 
 ---
 
